@@ -1,4 +1,5 @@
 <h1>Learning from Week One</h1> 
+<br>
 Looking at semantic HTML, how to use Terminal, and introducing myself to 'Execute Program', 'JavaScript 30'
 Terminal: open .html (index.html) will open index in browser 
 Terminal: code .html (index.hmtl) will run on VCS
