@@ -7,6 +7,7 @@
 * Useful link for Template Literals https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals <br>
 * Link for Git markdown https://guides.github.com/features/mastering-markdown/
 * Link for VCS shortcuts https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+* How to commit link https://panjeh.medium.com/makefile-git-add-commit-push-github-all-in-one-command-9dcf76220f48 <br>
 <br>
 <br>
 1. If I want to select multiple classes I can use (as I wanted to do for multiple cards) `documents.querySelectorAll('.key')` if all the items have the class key <br>
