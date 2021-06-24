@@ -19,6 +19,8 @@
 5. Understanding ES6 array methods, like map, reduce etc: https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/ <br>
 6. Understanding Hooks: https://reactjs.org/docs/hooks-intro.html
 7. Understanding JavaScript classes: https://www.w3schools.com/js/js_classes.asp
+8. Jobs Board for EF: https://jobs.joinef.com/?j=1064993789
+9. JObs Board for Otta: https://app.otta.com/jobs/VDZTQ2pU
 
 <h2>Notes</h2>
 
