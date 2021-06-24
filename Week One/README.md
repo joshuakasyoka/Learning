@@ -17,6 +17,8 @@
 3. Learning VCS shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf ! <br>
 4. Understanding 'how to commit on GitHub': https://panjeh.medium.com/makefile-git-add-commit-push-github-all-in-one-command-9dcf76220f48 ! <br>
 5. Understanding ES6 array methods, like map, reduce etc: https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/ <br>
+6. Understanding Hooks: https://reactjs.org/docs/hooks-intro.html
+7. Understanding JavaScript classes: https://www.w3schools.com/js/js_classes.asp
 
 <h2>Notes</h2>
 
