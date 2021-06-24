@@ -5,10 +5,10 @@
 - [x] Digital Ocean's Command Line Primer Tutorial
 - [x] Semantical HTML workshop 
 - [x] JavaScript30 Drum Kit
-- [ ] JavaScript30 CSS + JS Clock
+- [x] JavaScript30 CSS + JS Clock
 - [x] Git MarkDown Guide
 - [ ] Execute Program (Modern Javascript and Arrays Section)
-- [ ] How to implement ES6 array methods, like map, reduce, filter, and forEach
+- [x] How to implement ES6 array methods, like map, reduce, filter, and forEach
 
 <h2>Useful Links</h2>
 
