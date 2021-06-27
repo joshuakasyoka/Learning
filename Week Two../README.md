@@ -2,8 +2,16 @@
 
 <h2>Checklist</h2>
 
-[ ] - Read up on PHP 
+- [ ] Read up on Php
+- [ ] Start public lessons on Vue Js
+- [ ] Make your own crud-api tutorial (Instagram clone)
+- [x] Download Lavarel & Xampp
+- [ ] Lavarel Tutorial
+- [ ] Download Php Storm (Editor)
+- [ ] Look at "interactive debugging using zero configuration xdebug"
 
 <h2>Useful Links</h2>
 
 1. Loading a new Laravel project: https://laravel.com/docs/8.x/installation#getting-started-on-macos
+2. Lavarel Php framework tutorial https://www.youtube.com/watch?v=ImtZ5yENzgE
+3. Instructions on how to get the interactive debugger working: https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
