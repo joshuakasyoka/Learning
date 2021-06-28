@@ -15,3 +15,8 @@
 1. Loading a new Laravel project: https://laravel.com/docs/8.x/installation#getting-started-on-macos
 2. Lavarel Php framework tutorial https://www.youtube.com/watch?v=ImtZ5yENzgE
 3. Instructions on how to get the interactive debugger working: https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
+
+<h2>Notes</h2>
+
+x - SQL Lite used for databases 
+
