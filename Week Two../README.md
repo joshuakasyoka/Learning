@@ -32,3 +32,11 @@
 * A model: e.g. php artisan make:model : a model represents a table in our database. And one object of a moden represents an actual row in our database
 * `php artisan help make:model` allows a definition of the make feature
 * Eloquent: database layer of the framework (to fetch queries etc.) Elqouent allows us to run on mySQL and any other database 
+* `php artisan make:model Profile  -m` allows us to make a profile model and a migration (-m) in our database i.e establishes feature in database
+`unsignedBigInteger('user_id')` allows us to create a link in our database to our user
+`::` is a token that allows access to static, constant, and overridden properties or methods of a class. 
+`??` means or; so if value not found return ?? x
+`$user->push()` should push changes to the database from terminal of new user changes
+`findOrFail()` cool feature allowing a simple 404 message to return when value not found
+`belongsTo()` allow us to link to other datasets as does `thisHasMany()`
+
