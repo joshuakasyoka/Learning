@@ -16,6 +16,7 @@
 2. Lavarel Php framework tutorial https://www.youtube.com/watch?v=ImtZ5yENzgE
 3. Instructions on how to get the interactive debugger working: https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
 4. Link for understanding ocntrollers: https://laravel.com/docs/8.x/controllers
+5. `extends`: https://www.w3schools.com/php/keyword_extends.asp#:~:text=Definition%20and%20Usage,that%20it%20is%20derived%20from.
 
 <h2>Notes on Laravel PHP Framework Tutorial</h2>
 
@@ -39,4 +40,9 @@
 `$user->push()` should push changes to the database from terminal of new user changes
 `findOrFail()` cool feature allowing a simple 404 message to return when value not found
 `belongsTo()` allow us to link to other datasets as does `thisHasMany()`
-
+The double arrow operator, `=>`, is used as an access mechanism for arrays. This means that what is on the left side of it will have a corresponding value of what is on the right side of it in array context. This can be used to set values of any acceptable type into a corresponding index of an array. The index can be associative (string based) or numeric.
+The object operator, `->`, is used in object scope to access methods and properties of an object. It’s meaning is to say that what is on the right of the operator is a member of the object instantiated into the variable on the left side of the operator. Instantiated is the key term here.
+`Route:: get('/p', 'PostsController@create')` with `p` being uri and `PostsController@create` being action 
+`  <main class="py-4">
+            @yield('content')
+        </main>` : allows us to use @yield to present 'content' on `<main>`
