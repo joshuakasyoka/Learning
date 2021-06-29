@@ -17,3 +17,5 @@
 3. Instructions on how to get the interactive debugger working: https://www.jetbrains.com/help/phpstorm/configuring-xdebug.html
 4. Link for understanding ocntrollers: https://laravel.com/docs/8.x/controllers
 5. `extends`: https://www.w3schools.com/php/keyword_extends.asp#:~:text=Definition%20and%20Usage,that%20it%20is%20derived%20from.
+
+<h2>Notes</h2>
