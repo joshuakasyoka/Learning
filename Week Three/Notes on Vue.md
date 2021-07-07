@@ -16,4 +16,4 @@
   <button-counter></button-counter>
 </div>
 
-new Vue({ el: '#components-demo' })
+new Vue({ el: '#components-demo' })`
