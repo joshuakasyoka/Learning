@@ -19,8 +19,7 @@
   <button-counter></button-counter>
   </div>
   
-  new Vue({ el: '#components-demo' })
-  
+  new Vue({ el: '#components-demo' }) 
   ``` 
 * `#` allows us to mount to the id
 
