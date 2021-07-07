@@ -14,8 +14,8 @@
 
 `<div id="components-demo">
   <button-counter></button-counter>
-</div>
+</div>`
 
-new Vue({ el: '#components-demo' })` (where the `#` allows us to mount)
+`new Vue({ el: '#components-demo' })` (where the `#` allows us to mount)
 
 
