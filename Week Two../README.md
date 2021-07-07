@@ -2,12 +2,12 @@
 
 <h2>Checklist</h2>
 
-- [ ] Read up on Php
-- [ ] Start public lessons on Vue Js
-- [ ] Make your own crud-api tutorial (Instagram clone)
+- [x] Read up on Php
+- [x] Start public lessons on Vue Js
+- [x] Make your own crud-api tutorial (Instagram clone)
 - [x] Download Lavarel & Xampp
-- [ ] Lavarel Tutorial
-- [ ] Download Php Storm (Editor)
+- [x] Lavarel Tutorial
+- [x] Download Php Storm (Editor)
 - [ ] Look at "interactive debugging using zero configuration xdebug"
 
 <h2>Useful Links</h2>
