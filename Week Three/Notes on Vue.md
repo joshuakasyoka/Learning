@@ -22,5 +22,13 @@
   new Vue({ el: '#components-demo' }) 
   ``` 
 * `#` allows us to mount to the id
+* data in a component must always be a function and displayed as follows: 
+```
+data () {
+  return {
+    count: 0
+  }
+}
+```
 
 
