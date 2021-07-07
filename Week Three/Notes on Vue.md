@@ -10,7 +10,7 @@
   },
   template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
 })`
-* We can display components as a custom elements (e.g. `<button-counter></button-counter>` inside a root Vue by using `new Vue` : 
+* We can display components as a custom elements (e.g. `<button-counter></button-counter>` inside a root Vue by using `new Vue` 
 
 `<div id="components-demo"> 
   <button-counter></button-counter> 
