@@ -19,3 +19,6 @@
 5. Usability resources: https://www.nngroup.com/articles/menu-design/  https://developers.google.com/web/fundamentals/design-and-ux
 
 <h2>Notes</h2>
+
+* to install latest version of Node `nvm install 14.4.0 .` 
+
