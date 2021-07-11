@@ -4,7 +4,7 @@
 
 - [ ] Read through Vue.js Documentation
 - [ ] Read up more on Outlandish & co-tech
-- [ ] Look at Git including x2 tutorials Harry sent
+- [x] Look at Git including x2 tutorials Harry sent
 - [ ] Look at WordPress with framework Bedrock / word press theming 
 - [ ] Look at usability, Steve Krug's books 
 - [ ] Look at nngroup tutorials / other UX stuff
