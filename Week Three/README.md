@@ -2,8 +2,8 @@
 
 <h2>Checklist</h2>
 
-- [ ] Read through Vue.js Documentation
-- [ ] Read up more on Outlandish & co-tech
+- [x] Read through Vue.js Documentation
+- [x] Read up more on Outlandish & co-tech
 - [x] Look at Git including x2 tutorials Harry sent
 - [ ] Look at WordPress with framework Bedrock / word press theming 
 - [ ] Look at usability, Steve Krug's books 
