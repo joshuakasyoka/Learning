@@ -2,7 +2,7 @@
 
 <h2>Links</h2>
 
-- [ ] The Net Nija: https://www.youtube.com/watch?v=HbSjyU2vf6Y
+- [x] The Net Nija: https://www.youtube.com/watch?v=HbSjyU2vf6Y
 
 <h2>Notes</h2>
 
