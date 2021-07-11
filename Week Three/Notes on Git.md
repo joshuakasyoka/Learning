@@ -2,6 +2,7 @@
 
 <h2>Notes</h2>
 
+<h3>making commits and tracking them</h3>
 * `git init` initialises a repository locally and this is represented by '.git' in project folder
 * `git status` allows us to see our current repo status, what has and has not been staged
 * `git add .` adds all files to the staging area 
