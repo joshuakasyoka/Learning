@@ -17,6 +17,7 @@
 3. Git tutorials:  https://www.youtube.com/watch?v=8JJ101D3knE https://ohmygit.org/ 
 4. WordPress tutorials:  https://www.youtube.com/watch?v=ZSUe01S4zJY 
 5. Usability resources: https://www.nngroup.com/articles/menu-design/  https://developers.google.com/web/fundamentals/design-and-ux
+6. Git sheet: https://training.github.com/downloads/github-git-cheat-sheet/
 
 <h2>Notes</h2>
 
