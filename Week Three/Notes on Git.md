@@ -29,11 +29,22 @@
 * `git branch -a` allows us to select which branch we work on
 * usually we will be on `*master` e.g. master branch 
 * `git checkout <namebranch>` takes us onto selected branch 
-* `git branch -a` again allows us to switch to this selected branch
+* `git branch -a` again allows us to view and switch to selected branch
 *  `git checkout master` allows us to see master branch again 
 *  `git checkout out <namebranch>` then takes us to branch again
 *  `git branch -D <namebranch>` deletes our branch 
 *  `git checkout -b <namebranch>` names branch and check its out, doing two function in one: creating branch and moving to it 
 
 <h3>Merging Branches</h3>
-*
+
+* `git merge <namebranch>` allows us to merge to the master branch (which we are merging from)
+*  we sometimes come across git conflicts when someone has updated the master while another person has been working on a branch, then we will have to resolve the difference
+
+<h3>Github</h3>
+
+* `git push <https://url> master` allows us to push to a remote repository and it sets up a new 'master' 
+* `git add .` > `git commit -m "message"` > `git push <https://url> master` allows us to update our repository
+* Instead of using the whole url every time, we have to do `git remote add origin <https://url> master`, then we can just use `git push origin master`
+<br>
+* If we don't already have an existing repository or want to clone one from online, we use `git clone <https://url>` which makes it now local on our computer
+* we don't have to set up an orgin alias with cloned applications, so we just use `git push`
