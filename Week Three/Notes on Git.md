@@ -3,6 +3,7 @@
 <h2>Notes</h2>
 
 <h3>making commits and tracking them</h3>
+
 * `git init` initialises a repository locally and this is represented by '.git' in project folder
 * `git status` allows us to see our current repo status, what has and has not been staged
 * `git add .` adds all files to the staging area 
@@ -13,6 +14,7 @@
 * `git log --oneline` shortens our commits into more digestable chunks 
 
 <h3>reverting changes</h3>
+
 * `git checkout <af5b84c>` allows us to revert back to earlier commit and see the state of the code 
 * `git checkout master` then allows us to move back to the master branch and code before we reverted back.
 * `git revert <af5b84c>` and then use `:wq` 
@@ -20,6 +22,7 @@
 * up arrow allows us to go to previous command in command line
 
 <h3>branches</h3>
+
 * master branch is usually the code we do not want to be experimental on 
 * git branch lets us move away from the main branch and edit, without effecting the main branch 
 * `git branch <namebranch>` allows us to create new branch
