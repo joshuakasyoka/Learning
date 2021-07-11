@@ -62,4 +62,4 @@
 
 <h3>Forking and Contributing</h3>
 
-* 
+* Forking allows us to copy a repository from another person's account into our own...
