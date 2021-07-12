@@ -5,8 +5,8 @@
 - [x] Look at WordPress with framework Bedrock / word press theming 
 - [ ] Look at usability, Steve Krug's books 
 - [ ] Look at nngroup tutorials / other UX stuff
-- [ ] Look at Servers & LAMP
-- [ ] Look at Shell & tutorial 
+- [x] Look at Servers & LAMP
+- [x] Look at Shell & tutorial 
 
 
 <h2>Useful Links</h2>
