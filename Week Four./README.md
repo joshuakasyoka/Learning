@@ -14,6 +14,7 @@
 1. Ubuntu: https://help.ubuntu.com/community/ApacheMySQLPHP
 2. Setting up LAMP on AWS https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html 
 3. Termnial tutorial: https://www.learnshell.org/
+4. Useful PATH instructions: https://astrobiomike.github.io/unix/modifying_your_path
 
 <h2>Notes</h2>
 
