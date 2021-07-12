@@ -1,2 +1,2 @@
 # Learning
-A little record of my coding journey
+A record of useful notes, links and resources 
