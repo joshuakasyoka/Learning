@@ -15,7 +15,8 @@
 2. Setting up LAMP on AWS https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html 
 3. Termnial tutorial: https://www.learnshell.org/
 4. Useful PATH instructions: https://astrobiomike.github.io/unix/modifying_your_path
+5. Useful link for understanding LAMP: https://www.ibm.com/cloud/learn/lamp-stack-explained
 
 <h2>Notes</h2>
 
-* 
+* `export PATH="$PATH:/Users/Mike_Lee/my-bin"` allows us to determine our PATH
