@@ -4,6 +4,7 @@
 
 - [x] https://www.youtube.com/watch?v=bQACE1hPhz8
 - [x] https://www.youtube.com/watch?v=wNSaP-O5wrk
+- [x] https://codex.wordpress.org/Theme_Development
 
 <h2>Links</h2>
 
