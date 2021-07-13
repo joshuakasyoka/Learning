@@ -3,7 +3,7 @@
 <h2>Checklist</h2>
 
 - [x] Look at WordPress with framework Bedrock / word press theming 
-- [ ] Look at usability, Steve Krug's books 
+- [x] Look at usability, Steve Krug's books 
 - [ ] Look at nngroup tutorials / other UX stuff
 - [x] Look at Servers & LAMP
 - [x] Look at Shell & tutorial 
