@@ -9,3 +9,4 @@
 1. https://vuejs.org/v2/cookbook/unit-testing-vue-components.html
 2. https://reactgo.com/vue-testing-dom-attributes/ (looking at unit test img tests).
 3. https://softauthor.com/deploy-vue-js-app-on-firebase-hosting/ (using firebase to serve)
+4. https://www.betterhostreview.com/install-wordpress-mac-xampp.html (good guide on installing WordPress)
